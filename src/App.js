@@ -5,6 +5,7 @@ import { Home } from './Home/Home';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
+  const newid=0
   return (
 
     <div className="App">
@@ -21,3 +22,4 @@ function App() {
 }
 
 export default App;
+
